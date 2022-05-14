@@ -5,6 +5,6 @@ public class Test2022 {
         System.out.println("123");
         System.out.println("hot-git-yes");
         System.out.println("hot-git-no");
-        System.out.println("push test");
+        System.out.println("push2022 test");
     }
 }
