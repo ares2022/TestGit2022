@@ -3,6 +3,6 @@ public class Test2022 {
         System.out.println("go");
         System.out.println("666");
         System.out.println("123");
-        System.out.println("hot-git");
+        System.out.println("hot-git-no");
     }
 }
